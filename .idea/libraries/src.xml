@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/MagicalArena/src" />
+      <root url="file://$PROJECT_DIR$/MagicalArena/test" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-api" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-api/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-api/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-engine" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-engine/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-engine/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit5-main/junit-jupiter-engine/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
