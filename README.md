@@ -80,7 +80,7 @@ The game continues until one player's health reaches zero.
 1. **Clone the Repository:**
    - Open IntelliJ IDEA and clone the repository:
      ```sh
-     git clone https://github.com/yourusername/MagicalArena.git
+     git clone https://github.com/AnkitKumarh15/Magical-Arena.git
      ```
    - Navigate into the project directory:
      ```sh
